@@ -1,16 +1,110 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**abhijithshetty12/abhijithshetty12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- LIQUID HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d1ff&height=250&section=header&text=Abhijith%20Shetty&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" />
 
-Here are some ideas to get you started:
+### 💧 Crafting Fluid Digital Experiences
+**Full Stack Developer | UI Enthusiast | Problem Solver**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://linkedin.com/in/yourlink">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- GLASSY STATS SECTION -->
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=abhijithshetty12&show_icons=true&theme=transparent&title_color=00d1ff&text_color=ffffff&icon_color=00d1ff&border_color=00d1ff&hide_border=true" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithshetty12&layout=compact&theme=transparent&title_color=00d1ff&text_color=ffffff&icon_color=00d1ff&border_color=00d1ff&hide_border=true" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌊 Featured Projects
+*Showcasing my latest innovations*
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/abhijithshetty12/abhijithshetty12/main/project1-thumb.png" alt="Project 1" width="100%" style="border-radius:10px;"/>
+      <br/>
+      <h4>🚀 Project Name One</h4>
+      <p>A high-performance web app featuring a <b>Liquid UI</b> and real-time data sync. Built for scalability and speed.</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> 
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <br/><br/>
+      <a href="#"><b>View Repo →</b></a>
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/abhijithshetty12/abhijithshetty12/main/project2-thumb.png" alt="Project 2" width="100%" style="border-radius:10px;"/>
+      <br/>
+      <h4>🧪 Project Name Two</h4>
+      <p>An AI-driven task manager with <b>Glassmorphism</b> design principles and automated workflow integration.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <br/><br/>
+      <a href="#"><b>View Repo →</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Skill Stack
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js"/>
+  <img src="https://cdn.simpleicons.org/framer/white" width="36" height="36" alt="Framer Motion"/>
+  <img src="https://skillicons.dev/icons?i=threejs&theme=dark" width="36" height="36" alt="Three.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" width="36" height="36" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" height="36" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="36" height="36" alt="Mongoose"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" height="36" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="36" height="36" alt="Vite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" width="36" height="36" alt="Bun"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" height="36" alt="Postman"/>
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="36" height="36" alt="Vercel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="36" height="36" alt="Blender"/>
+</p>
+
+---
+
+### 📊 Contribution Flow
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhijithshetty12&bg_color=0d1117&color=00d1ff&line=00d1ff&point=ffffff&area=true&hide_border=true)
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=abhijithshetty12&color=00d1ff&style=flat-square&label=PROFILE+VIEWS" />
+</div>
+
+</div>
