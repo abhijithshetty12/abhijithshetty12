@@ -45,7 +45,7 @@
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> 
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
       <br/><br/>
-      <a href="#"><b>View Repo →</b></a>
+      <a href="https://github.com/abhijithshetty12/Cinescape"><b>View Repo →</b></a>
     </td>
     <td width="50%">
       <img src="https://raw.githubusercontent.com/abhijithshetty12/abhijithshetty12/main/project2-thumb.png" alt="Project 2" width="100%" style="border-radius:10px;"/>
@@ -55,7 +55,7 @@
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> 
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       <br/><br/>
-      <a href="https://github.com/abhijithshetty12/Cinescape"><b>View Repo →</b></a>
+      <a href="#"><b>View Repo →</b></a>
     </td>
   </tr>
 </table>
@@ -70,10 +70,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js"/>
-  <img src="https://cdn.simpleicons.org/framer/white" width="36" height="36" alt="Framer Motion"/>
-  <img src="https://skillicons.dev/icons?i=threejs&theme=dark" width="36" height="36" alt="Three.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" width="36" height="36" alt="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java"/>
@@ -83,13 +80,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" height="36" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="36" height="36" alt="Mongoose"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" height="36" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="36" height="36" alt="Vite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" width="36" height="36" alt="Bun"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" height="36" alt="Postman"/>
   <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="36" height="36" alt="Vercel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="36" height="36" alt="Blender"/>
@@ -98,7 +93,11 @@
 ---
 
 ### 📊 Contribution Flow
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhijithshetty12&bg_color=0d1117&color=00d1ff&line=00d1ff&point=ffffff&area=true&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhijithshetty12/abhijithshetty12/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhijithshetty12/abhijithshetty12/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abhijithshetty12/abhijithshetty12/output/pacman-contribution-graph.svg">
+</picture>
 
 <br/>
 
