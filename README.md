@@ -99,12 +99,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abhijithshetty12/abhijithshetty12/output/pacman-contribution-graph.svg">
 </picture>
 
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=abhijithshetty12&color=00d1ff&style=flat-square&label=PROFILE+VIEWS" />
-</div>
-
-</div>
