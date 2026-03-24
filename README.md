@@ -29,6 +29,7 @@
   </tr>
 </table>
 
+
 ---
 
 ### 🌊 Featured Projects
@@ -37,9 +38,9 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/abhijithshetty12/abhijithshetty12/main/project1-thumb.png" alt="Project 1" width="100%" style="border-radius:10px;"/>
+      <img width="1894" height="1074" alt="Screenshot 2026-03-24 194109" src="https://github.com/user-attachments/assets/d66001bb-f714-44be-afc0-b8b617a5ac30" />
       <br/>
-      <h4>🚀 Project Name One</h4>
+      <h4>🚀 Cinescape</h4>
       <p>A high-performance web app featuring a <b>Liquid UI</b> and real-time data sync. Built for scalability and speed.</p>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> 
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
@@ -54,7 +55,7 @@
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> 
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       <br/><br/>
-      <a href="#"><b>View Repo →</b></a>
+      <a href="https://github.com/abhijithshetty12/Cinescape"><b>View Repo →</b></a>
     </td>
   </tr>
 </table>
