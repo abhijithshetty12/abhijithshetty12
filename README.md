@@ -47,16 +47,6 @@
   <br/><br/>
   <a href="https://github.com/abhijithshetty12/Cinescape"><b>View Repo →</b></a>
 </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/abhijithshetty12/abhijithshetty12/main/project2-thumb.png" alt="Project 2" width="100%" style="border-radius:10px;"/>
-      <br/>
-      <h4>🧪 Project Name Two</h4>
-      <p>An AI-driven task manager with <b>Glassmorphism</b> design principles and automated workflow integration.</p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      <br/><br/>
-      <a href="#"><b>View Repo →</b></a>
-    </td>
   </tr>
 </table>
 
