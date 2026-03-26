@@ -38,15 +38,15 @@
 <table>
   <tr>
     <td width="50%">
-      <img width="1894" height="1074" alt="Screenshot 2026-03-24 194109" src="https://github.com/user-attachments/assets/d66001bb-f714-44be-afc0-b8b617a5ac30" />
-      <br/>
-      <h4>🚀 Cinescape</h4>
-      <p>A high-performance web app featuring a <b>Liquid UI</b> and real-time data sync. Built for scalability and speed.</p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> 
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      <br/><br/>
-      <a href="https://github.com/abhijithshetty12/Cinescape"><b>View Repo →</b></a>
-    </td>
+  <img width="1894" height="1074" alt="Screenshot 2026-03-24 194109" src="https://github.com/user-attachments/assets/d66001bb-f714-44be-afc0-b8b617a5ac30" />
+  <br/>
+  <h4>🎬 <a href="https://cinescape-teal.vercel.app/" target="_blank">Cinescape</a></h4>
+  <p>A high-performance web app featuring a <b>Liquid UI</b> and real-time data sync. Built for scalability and speed.</p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <br/><br/>
+  <a href="https://github.com/abhijithshetty12/Cinescape"><b>View Repo →</b></a>
+</td>
     <td width="50%">
       <img src="https://raw.githubusercontent.com/abhijithshetty12/abhijithshetty12/main/project2-thumb.png" alt="Project 2" width="100%" style="border-radius:10px;"/>
       <br/>
