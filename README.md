@@ -1,10 +1,12 @@
 <div align="center">
 
-<!-- LIQUID HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d1ff&height=250&section=header&text=Abhijith%20Shetty&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d1ff&height=250&section=header&text=Abhijith%20Shetty&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" />
+</p>
 
 ### 💧 Crafting Fluid Digital Experiences
-**Full Stack Developer | UI Enthusiast | Problem Solver**
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Full Stack Developer.;%E2%9C%A8+UI Enthusiast.;%F0%9F%94%A5+Problem Solver." alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://linkedin.com/in/yourlink">
