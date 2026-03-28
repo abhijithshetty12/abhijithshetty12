@@ -1,18 +1,17 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d1ff&height=250&section=header&text=Abhijith%20Shetty&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" />
-</p>
+<h1 style="font-size: 50px;">Abhijith Shetty</h1>
+
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
 
 ### 💧 Crafting Fluid Digital Experiences
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Full Stack Developer.;%E2%9C%A8+UI Enthusiast.;%F0%9F%94%A5+Problem Solver." alt="Typing SVG" /></a>
+**Full Stack Developer | UI Enthusiast | Problem Solver**
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourlink">
+  <a href="https://linkedin.com/in/abhijithshetty12">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:abhijithshetty2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -43,7 +42,7 @@
   <img width="1894" height="1074" alt="Screenshot 2026-03-24 194109" src="https://github.com/user-attachments/assets/d66001bb-f714-44be-afc0-b8b617a5ac30" />
   <br/>
   <h4>🎬 <a href="https://cinescape-teal.vercel.app/" target="_blank">Cinescape</a></h4>
-  <p>A high-performance web app featuring a <b>Liquid UI</b> and real-time data sync. Built for scalability and speed.</p>
+  <p>A sleek React-powered movie hub on Vercel that lets you explore films, actors, and favorites in a modern, responsive experience.</p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <br/><br/>
