@@ -16,6 +16,10 @@ Crafting Fluid Digital Experiences 💧
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
 </p>
 
+<p align="center">
+  <img src="Assets/under-construction.gif" alt="Under Construction"/>
+</p>
+
 ---
 <!-- GLASSY STATS SECTION -->
 <table>
