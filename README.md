@@ -1,23 +1,22 @@
-<div align="center">
+# 😎 Hey! What's Up
 
-<h1 style="font-size: 50px;">Abhijith Shetty</h1>
+![Full-Stack Developer](https://img.shields.io/badge/Full--Stack_Developer-363636?style=flat&logoColor=white)
+![UI Enthusiast](https://img.shields.io/badge/UI_Enthusiast-0A66C2?style=flat&logoColor=white)
+![Problem Solver](https://img.shields.io/badge/Problem_Solver-FF6600?style=flat&logoColor=white)
 
+I'm Abhijith, Fullstack developer from 
+<img src="https://cdn-icons-png.flaticon.com/512/16022/16022214.png" width="16"/> **Mumbai, India**.  
+Crafting Fluid Digital Experiences 💧
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijithshetty12/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/trulyabhijith/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhijithshetty2006@gmail.com)
+
+<p align="right">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
-
-### 💧 Crafting Fluid Digital Experiences
-**Full Stack Developer | UI Enthusiast | Problem Solver**
-
-<p align="center">
-  <a href="https://linkedin.com/in/abhijithshetty12">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:abhijithshetty2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
-
 <!-- GLASSY STATS SECTION -->
 <table>
   <tr>
@@ -29,7 +28,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
