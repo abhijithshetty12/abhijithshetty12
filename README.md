@@ -8,14 +8,6 @@ I'm Abhijith, Fullstack developer from
 <img src="https://cdn-icons-png.flaticon.com/512/16022/16022214.png" width="16"/> **Mumbai, India**.  
 Crafting Fluid Digital Experiences 💧
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijithshetty12/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/trulyabhijith/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhijithshetty2006@gmail.com)
-
-<p align="left">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
-</p>
-
 <p align="center">
   <img src="Assets/under-construction.gif" alt="Under Construction"/>
 </p>
@@ -82,6 +74,54 @@ Crafting Fluid Digital Experiences 💧
   <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="36" height="36" alt="Vercel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="36" height="36" alt="Blender"/>
 </p>
+
+---
+<div align="center">
+
+### 🎶 Currently Vibing To  
+
+<a href="https://open.spotify.com/user/317fv7ollidr6dyc7r6s5a3vhweu">
+  <img 
+    src="https://spotify-recently-played-readme.vercel.app/api?user=317fv7ollidr6dyc7r6s5a3vhweu&count=5&unique=true&width=600&border_radius=20&theme=dark&background_color=000000&border_color=1DB954" 
+    alt="Spotify Recently Played" 
+    style="border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.4);" 
+  />
+</a>
+
+</div>
+
+### 💻 Let’s Build Something Awesome Together
+
+<table style="border:none;">
+  <tr>
+    <td valign="top" width="70%">
+      <p>
+        I love building meaningful connections with curious minds and passionate creators.  
+        Whether it’s brainstorming bold ideas, crafting sleek projects, or exploring new horizons,  
+        collaboration is where innovation truly sparks ✨
+      </p>
+      <blockquote>
+        <p><strong>Current Vibe :</strong> Actively seeking exciting opportunities & creative partnerships.</p>
+      </blockquote>
+      <p>
+        <a href="https://www.linkedin.com/in/abhijithshetty12/">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+        </a>
+        <a href="mailto:abhijithshetty2006@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+        </a>
+        <a href="https://www.instagram.com/trulyabhijith/">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="200" align="center" style="border:none;">
+      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160" alt="Coding Cat"/>
+      <br/>
+      <em>Code, coffee, and creativity 🐾</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
