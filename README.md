@@ -1,4 +1,4 @@
-# 😎 Hey! What's Up
+# Hey! What's Up
 
 ![Full-Stack Developer](https://img.shields.io/badge/Full--Stack_Developer-363636?style=flat&logoColor=white)
 ![UI Enthusiast](https://img.shields.io/badge/UI_Enthusiast-0A66C2?style=flat&logoColor=white)
@@ -12,7 +12,7 @@ Crafting Fluid Digital Experiences 💧
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/trulyabhijith/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhijithshetty2006@gmail.com)
 
-<p align="right">
+<p align="left">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
 </p>
 
