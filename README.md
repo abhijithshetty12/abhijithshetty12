@@ -13,19 +13,6 @@ Crafting Fluid Digital Experiences 💧
 </p>
 
 ---
-<!-- GLASSY STATS SECTION -->
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=abhijithshetty12&show_icons=true&theme=transparent&title_color=00d1ff&text_color=ffffff&icon_color=00d1ff&border_color=00d1ff&hide_border=true" width="100%"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithshetty12&layout=compact&theme=transparent&title_color=00d1ff&text_color=ffffff&icon_color=00d1ff&border_color=00d1ff&hide_border=true" width="100%"/>
-    </td>
-  </tr>
-</table>
-
----
 
 ### 🌊 Featured Projects
 *Showcasing my latest innovations*
@@ -76,19 +63,6 @@ Crafting Fluid Digital Experiences 💧
 </p>
 
 ---
-<div align="center">
-
-### 🎶 Currently Vibing To  
-
-<a href="https://open.spotify.com/user/317fv7ollidr6dyc7r6s5a3vhweu">
-  <img 
-    src="https://spotify-recently-played-readme.vercel.app/api?user=317fv7ollidr6dyc7r6s5a3vhweu&count=5&unique=true&width=600&border_radius=20&theme=dark&background_color=000000&border_color=1DB954" 
-    alt="Spotify Recently Played" 
-    style="border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.4);" 
-  />
-</a>
-
-</div>
 
 ### 💻 Let’s Build Something Awesome Together
 
