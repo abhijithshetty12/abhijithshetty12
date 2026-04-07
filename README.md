@@ -1,5 +1,7 @@
-# Hey! What's Up
-
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Abhijith%20Shetty&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 <img align="center" height="270px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
 ![Full-Stack Developer](https://img.shields.io/badge/Full--Stack_Developer-363636?style=flat&logoColor=white)
