@@ -1,5 +1,7 @@
 # Hey! What's Up
 
+<img align="center" height="270px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+
 ![Full-Stack Developer](https://img.shields.io/badge/Full--Stack_Developer-363636?style=flat&logoColor=white)
 ![UI Enthusiast](https://img.shields.io/badge/UI_Enthusiast-0A66C2?style=flat&logoColor=white)
 ![Problem Solver](https://img.shields.io/badge/Problem_Solver-FF6600?style=flat&logoColor=white)
@@ -92,7 +94,6 @@ Crafting Fluid Digital Experiences 💧
     <td width="200" align="center" style="border:none;">
       <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160" alt="Coding Cat"/>
       <br/>
-      <em>Code, coffee, and creativity 🐾</em>
     </td>
   </tr>
 </table>
