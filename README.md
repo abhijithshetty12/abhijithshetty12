@@ -8,10 +8,6 @@
 ![UI Enthusiast](https://img.shields.io/badge/UI_Enthusiast-0A66C2?style=flat&logoColor=white)
 ![Problem Solver](https://img.shields.io/badge/Problem_Solver-FF6600?style=flat&logoColor=white)
 
-I'm Abhijith, Fullstack developer from 
-<img src="https://cdn-icons-png.flaticon.com/512/16022/16022214.png" width="16"/> **Mumbai, India**.  
-Crafting Fluid Digital Experiences 💧
-
 <p align="center">
   <img src="Assets/under-construction.gif" alt="Under Construction"/>
 </p>
