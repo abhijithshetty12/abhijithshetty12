@@ -19,16 +19,26 @@
 
 <table>
   <tr>
-    <td width="50%">
-  <img width="1894" height="1074" alt="Screenshot 2026-03-24 194109" src="https://github.com/user-attachments/assets/d66001bb-f714-44be-afc0-b8b617a5ac30" />
-  <br/>
-  <h4>🎬 <a href="https://cinescape-teal.vercel.app/" target="_blank">Cinescape</a></h4>
-  <p>A sleek React-powered movie hub on Vercel that lets you explore films, actors, and favorites in a modern, responsive experience.</p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <br/><br/>
-  <a href="https://github.com/abhijithshetty12/Cinescape"><b>View Repo →</b></a>
-</td>
+    <td width="50%" valign="top">
+      <img src="https://github.com/user-attachments/assets/d66001bb-f714-44be-afc0-b8b617a5ac30" alt="Cinescape" style="width:100%;" />
+      <br/>
+      <h4>🎬 <a href="https://cinescape-teal.vercel.app/" target="_blank">Cinescape</a></h4>
+      <p>A sleek React-powered movie hub that lets you explore films, actors, and favorites in a modern experience.</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> 
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <br/><br/>
+      <a href="https://github.com/abhijithshetty12/Cinescape"><b>View Repo →</b></a>
+    </td>
+    <td width="50%" valign="top">
+       <img width="1920" height="1080" alt="Screenshot 2026-04-17 205032" src="https://github.com/user-attachments/assets/91d69962-6933-4bee-a4fa-fd169d23625e" />
+      <br/>
+      <h4>🌤️ <a href="https://skysense-weather.vercel.app/" target="_blank">SkySense</a></h4>
+      <p>An intuitive weather forecasting app providing real-time meteorological data and hyper-local insights.</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> 
+      <img src="https://img.shields.io/badge/API-OpenWeather-orange?style=flat-square" />
+      <br/><br/>
+      <a href="https://github.com/abhijithshetty12/SkySense"><b>View Repo →</b></a>
+    </td>
   </tr>
 </table>
 
