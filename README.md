@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,fastapi,nextjs,nodejs,tailwind,bootstrap,java,c,cpp,py,mongodb,mysql,git,github,vite,postman,vercel,blender&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,fastapi,nextjs,nodejs,tailwind,bootstrap,java,c,cpp,py,mongodb,mysql,git,github,vite,postman,vercel,blender,firebase,sqlite,powershell,cs,bi&theme=dark" />
   </a>
 </p>
 
