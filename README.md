@@ -1,6 +1,5 @@
-<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Abhijith%20Shetty&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=ABHIJITH%20SHETTY&fontSize=60&fontColor=38bdf8&desc=TRANSFORMING%20IDEAS%20INTO%20CODE&descSize=15&descAlignY=70" />
 </p>
 <a href="https://github.com/abhijithshetty12">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithshetty12&layout=compact&theme=dark" alt="Top Langs" align="right" />
@@ -57,7 +56,7 @@
 
 ---
 
-### 💻 Let’s Build Something Awesome Together
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Let’s Build Something Awesome Together
 
 <table style="border:none;">
   <tr>
