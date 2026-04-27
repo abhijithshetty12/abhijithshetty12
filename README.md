@@ -24,7 +24,7 @@
     <td width="50%" valign="top">
       <img src="https://github.com/abhijithshetty12/Cinescape/blob/main/screenshots/hero-section.png?raw=true" alt="Cinescape" style="width:100%;" />
       <br/>
-      <h4>🎬 <a href="https://cinescape-teal.vercel.app/" target="_blank">Cinescape</a></h4>
+      <h4>🎬 <a href="https://cinescape-films.vercel.app/" target="_blank">Cinescape</a></h4>
       <p>A sleek React-powered movie hub that lets you explore films, actors, and favorites in a modern experience.</p>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> 
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
