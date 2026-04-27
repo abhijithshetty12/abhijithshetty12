@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="/Cinescape/screenshots/hero-section.png" alt="Cinescape" style="width:100%;" />
+      <img src="https://github.com/abhijithshetty12/Cinescape/blob/main/screenshots/hero-section.png?raw=true" alt="Cinescape" style="width:100%;" />
       <br/>
       <h4>🎬 <a href="https://cinescape-teal.vercel.app/" target="_blank">Cinescape</a></h4>
       <p>A sleek React-powered movie hub that lets you explore films, actors, and favorites in a modern experience.</p>
