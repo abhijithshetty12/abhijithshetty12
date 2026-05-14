@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,fastapi,nextjs,nodejs,tailwind,bootstrap,java,c,cpp,py,mongodb,mysql,git,github,vite,postman,vercel,blender,firebase,sqlite,git,powershell,cs,bi&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,fastapi,nextjs,nodejs,tailwind,bootstrap,java,c,cpp,py,mongodb,mysql,git,github,vite,postman,vercel,blender,firebase,sqlite,git,powershell,cs,swing,three,bi&theme=dark" />
   </a>
 </p>
 
