@@ -21,25 +21,63 @@
 
 <table>
   <tr>
+    <!-- Portfolio -->
+    <td width="50%" valign="top">
+      <img src="https://github.com/abhijithshetty12/portfolio-abhijith/blob/main/public/opengraph.png?raw=true" alt="Portfolio Website" style="width:100%;" />
+      <br/>
+      <h4>🌐 <a href="https://abhijithshetty.vercel.app/" target="_blank">Portfolio Website</a></h4>
+      <p>A visually engaging portfolio built with Next.js, Three.js, and Framer Motion, featuring interactive 3D experiences, smooth transitions, and responsive design to showcase my work and skills.</p>
+
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+
+      <br/><br/>
+      <a href="https://github.com/abhijithshetty12/portfolio-abhijith"><b>View Repo →</b></a>
+    </td>
+
+    <!-- Cinescape -->
     <td width="50%" valign="top">
       <img src="https://github.com/abhijithshetty12/Cinescape/blob/main/screenshots/hero-section.png?raw=true" alt="Cinescape" style="width:100%;" />
       <br/>
       <h4>🎬 <a href="https://cinescape-films.vercel.app/" target="_blank">Cinescape</a></h4>
       <p>A sleek React-powered movie hub that lets you explore films, actors, and favorites in a modern experience.</p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> 
+
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+
       <br/><br/>
       <a href="https://github.com/abhijithshetty12/Cinescape"><b>View Repo →</b></a>
     </td>
+  </tr>
+
+  <tr>
+    <!-- SkySense -->
     <td width="50%" valign="top">
-       <img width="1920" height="1080" alt="Screenshot 2026-04-17 205032" src="https://github.com/user-attachments/assets/91d69962-6933-4bee-a4fa-fd169d23625e" />
+      <img src="https://github.com/user-attachments/assets/91d69962-6933-4bee-a4fa-fd169d23625e" alt="SkySense" style="width:100%;" />
       <br/>
       <h4>🌤️ <a href="https://skysense-weather.vercel.app/" target="_blank">SkySense</a></h4>
       <p>An intuitive weather forecasting app providing real-time meteorological data and hyper-local insights.</p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> 
+
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/API-OpenWeather-orange?style=flat-square" />
+
       <br/><br/>
       <a href="https://github.com/abhijithshetty12/SkySense"><b>View Repo →</b></a>
+    </td>
+
+    <!-- EduFlow -->
+    <td width="50%" valign="top">
+      <img src="https://github.com/abhijithshetty12/EduFlow/blob/main/public/screenshots/Hero-Section.png?raw=true" alt="EduFlow" style="width:100%;" />
+      <br/>
+      <h4>📚 <a href="https://eduflow-nextgen.vercel.app/" target="_blank">EduFlow</a></h4>
+      <p>A modern learning management platform designed to streamline course organization, student engagement, and academic progress tracking.</p>
+
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+
+      <br/><br/>
+      <a href="https://github.com/abhijithshetty12/EduFlow"><b>View Repo →</b></a>
     </td>
   </tr>
 </table>
