@@ -44,8 +44,11 @@
         A sleek React-powered movie hub that lets you explore films,
         actors, and favorites in a modern experience.
       </p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+      <img src="https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React 18">
+      <img src="https://img.shields.io/badge/TypeScript_5-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript 5">
+      <img src="https://img.shields.io/badge/Vite_5-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite 5">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
       <br><br>
       <a href="https://github.com/abhijithshetty12/Cinescape"><b>View Repo →</b></a>
     </td>
