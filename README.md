@@ -79,6 +79,22 @@
       <a href="https://github.com/abhijithshetty12/EduFlow"><b>View Repo →</b></a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top" style="padding: 16px;">
+      <img src="https://github.com/abhijithshetty12/Secura/blob/main/screenshots/landing.png?raw=true" alt="Secura Vault" width="100%">
+      <br><br>
+      <b>🛡️ <a href="https://secura-vault.vercel.app/">Secura</a></b>
+      <p>
+        A high-security, encrypted digital credential and document vault. Features deep-blur glassmorphism layouts, robust session locking, dynamic category routing, and a secure upload pipeline designed for privacy-first asset management.
+      </p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+      <br><br>
+      <a href="https://github.com/abhijithshetty12/Secura"><b>View Repo →</b></a>
+    </td>
+  </tr>
 </table>
 
 ---
