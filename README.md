@@ -6,9 +6,9 @@
 </a>
 <img align="center" height="270px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
-![Full-Stack Developer](https://img.shields.io/badge/Full--Stack_Developer-363636?style=flat&logoColor=white)
-![UI Enthusiast](https://img.shields.io/badge/UI_Enthusiast-0A66C2?style=flat&logoColor=white)
-![Problem Solver](https://img.shields.io/badge/Problem_Solver-FF6600?style=flat&logoColor=white)
+![Full-Stack Developer](https://img.shields.io/badge/Full--Stack_Developer-363636?style=plastic&logoColor=white)
+![UI Enthusiast](https://img.shields.io/badge/UI_Enthusiast-0A66C2?style=plastic&logoColor=white)
+![Problem Solver](https://img.shields.io/badge/Problem_Solver-FF6600?style=plastic&logoColor=white)
 
 <p align="center">
   <img src="Assets/under-construction.gif" alt="Under Construction"/>
@@ -30,9 +30,9 @@
         featuring interactive 3D experiences, smooth transitions, and responsive design
         to showcase my work and skills.
       </p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white">
-      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Three.js-000000?style=plastic&logo=threedotjs&logoColor=white" alt="Three.js">
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=plastic&logo=framer&logoColor=white" alt="Framer Motion">
       <br><br>
       <a href="https://github.com/abhijithshetty12/portfolio-abhijith"><b>View Repo →</b></a>
     </td>
@@ -44,11 +44,11 @@
         A sleek React-powered movie hub that lets you explore films,
         actors, and favorites in a modern experience.
       </p>
-      <img src="https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React 18">
-      <img src="https://img.shields.io/badge/TypeScript_5-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript 5">
-      <img src="https://img.shields.io/badge/Vite_5-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite 5">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
+      <img src="https://img.shields.io/badge/React_18-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React 18">
+      <img src="https://img.shields.io/badge/TypeScript_5-3178C6?style=plastic&logo=typescript&logoColor=white" alt="TypeScript 5">
+      <img src="https://img.shields.io/badge/Vite_5-646CFF?style=plastic&logo=vite&logoColor=white" alt="Vite 5">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+      <img src="https://img.shields.io/badge/Firebase-FF7400?style=plastic&logo=firebase&logoColor=FFCA28" alt="Firebase">
       <br><br>
       <a href="https://github.com/abhijithshetty12/Cinescape"><b>View Repo →</b></a>
     </td>
@@ -63,8 +63,8 @@
         An intuitive weather forecasting app providing real-time
         meteorological data and hyper-local insights.
       </p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-      <img src="https://img.shields.io/badge/API-OpenWeather-orange?style=flat-square">
+      <img src="https://img.shields.io/badge/React_18-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React 18">
+      <img src="https://img.shields.io/badge/API-OpenWeather-FF7400?style=plastic&logo=openweather" alt="OpenWeather API">
       <br><br>
       <a href="https://github.com/abhijithshetty12/SkySense"><b>View Repo →</b></a>
     </td>
@@ -76,8 +76,8 @@
         A modern learning management platform designed to streamline
         course organization, student engagement, and academic progress tracking.
       </p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+      <img src="https://img.shields.io/badge/React_18-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React 18">
+      <img src="https://img.shields.io/badge/Firebase-FF7400?style=plastic&logo=firebase&logoColor=FFCA28" alt="Firebase">
       <br><br>
       <a href="https://github.com/abhijithshetty12/EduFlow"><b>View Repo →</b></a>
     </td>
@@ -90,10 +90,11 @@
       <p>
         A high-security, encrypted digital credential and document vault. Features deep-blur glassmorphism layouts, robust session locking, dynamic category routing, and a secure upload pipeline designed for privacy-first asset management.
       </p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+      <img src="https://img.shields.io/badge/React_18-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React 18">
+      <img src="https://img.shields.io/badge/TypeScript_5-3178C6?style=plastic&logo=typescript&logoColor=white" alt="TypeScript 5">
+      <img src="https://img.shields.io/badge/Vite_5-646CFF?style=plastic&logo=vite&logoColor=white" alt="Vite 5">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+      <img src="https://img.shields.io/badge/Firebase-FF7400?style=plastic&logo=firebase&logoColor=FFCA28" alt="Firebase">
       <br><br>
       <a href="https://github.com/abhijithshetty12/Secura"><b>View Repo →</b></a>
     </td>
@@ -126,16 +127,16 @@
         <p><strong>Current Vibe :</strong> Actively seeking exciting opportunities & creative partnerships.</p>
       </blockquote>
       <p>
-        <a href="https://www.linkedin.com/in/abhijithshetty12/">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-        </a>
-        <a href="mailto:abhijithshetty2006@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-        </a>
-        <a href="https://www.instagram.com/trulyabhijith/">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-        </a>
-      </p>
+  <a href="https://www.linkedin.com/in/abhijithshetty12/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abhijithshetty2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/trulyabhijith/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
     </td>
     <td width="200" align="center" style="border:none;">
       <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160" alt="Coding Cat"/>
