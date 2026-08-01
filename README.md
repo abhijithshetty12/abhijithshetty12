@@ -1,14 +1,22 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=ABHIJITH%20SHETTY&fontSize=60&fontColor=38bdf8&desc=TRANSFORMING%20IDEAS%20INTO%20CODE&descSize=15&descAlignY=70" />
-</p>
-<a href="https://github.com/abhijithshetty12">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithshetty12&layout=compact&theme=dark" alt="Top Langs" align="right" />
-</a>
-<img align="center" height="270px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<div align="center">
+  <img align="left" height="170" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+  <img align="right" width="800" src="http://itshivam.in/api/github-profile?username=abhijithshetty12&data=followers,repositories,stars,commits,trophies&theme=midnight" alt="GitHub Stats" />
+</div>
+<br clear="both" />
 
-![Full-Stack Developer](https://img.shields.io/badge/Full--Stack_Developer-363636?style=plastic&logoColor=white)
-![UI Enthusiast](https://img.shields.io/badge/UI_Enthusiast-0A66C2?style=plastic&logoColor=white)
-![Problem Solver](https://img.shields.io/badge/Problem_Solver-FF6600?style=plastic&logoColor=white)
+<div>
+  <a href="https://github.com/abhijithshetty12">
+    <img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithshetty12&layout=compact&theme=dark" alt="Top Langs" />
+  </a>
+
+  <div align="center">
+    <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30">
+    <img src="https://img.shields.io/badge/Full--Stack_Developer-363636?style=plastic&logoColor=white" alt="Full-Stack Developer" />
+    <img src="https://img.shields.io/badge/UI_Enthusiast-0A66C2?style=plastic&logoColor=white" alt="UI Enthusiast" />
+    <img src="https://img.shields.io/badge/Problem_Solver-FF6600?style=plastic&logoColor=white" alt="Problem Solver" />
+  </div>
+</div>
+<br clear="both" />
 
 <p align="center">
   <img src="Assets/under-construction.gif" alt="Under Construction"/>
@@ -16,7 +24,7 @@
 
 ---
 
-### 🌊 Featured Projects
+### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Featured Projects
 <em>Showcasing my latest innovations</em>
 
 <table>
