@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="right" width="700" src="http://itshivam.in/api/github-profile?username=abhijithshetty12&data=followers,repositories,stars,commits,trophies&theme=midnight" alt="GitHub Stats" />
+  <img align="right" width="650" src="http://itshivam.in/api/github-profile?username=abhijithshetty12&data=followers,repositories,stars,commits,trophies&theme=midnight" alt="GitHub Stats" />
   <img align="left" height="170" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 </div>
 <br clear="both" />
