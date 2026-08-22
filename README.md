@@ -1,12 +1,12 @@
 <div align="center">
-  <img align="right" width="620" src="http://itshivam.in/api/github-profile?username=abhijithshetty12&data=followers,repositories,stars,commits,trophies&theme=midnight" alt="GitHub Stats" />
+  <img align="right" width="620" src="http://itshivam.in/api/github-profile?username=abhijithshetty12&data=followers,repositories,stars,commits,trophies&theme=midnight&v=2" alt="GitHub Stats" />
   <img align="left" height="170" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 </div>
 <br clear="both" />
 
 <div>
   <a href="https://github.com/abhijithshetty12">
-    <img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=dark" alt="Top Langs" />
+    <img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithshetty12&layout=compact&theme=dark" alt="Top Langs" />
   </a>
 
   <div align="center">
