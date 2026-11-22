@@ -161,4 +161,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhijithshetty12/abhijithshetty12/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abhijithshetty12/abhijithshetty12/output/pacman-contribution-graph.svg">
 </picture>
-<img src="koi/koi.gif" width="256" alt="My koi" />
+<p align="center">
+  <a href="https://github.com/PramudithaN/git-tulkun">
+    <img src="https://raw.githubusercontent.com/abhijithshetty12/output/tulkun/tulkun.gif" width="640" alt="git-tulkun swimming" />
+  </a>
+</p>
