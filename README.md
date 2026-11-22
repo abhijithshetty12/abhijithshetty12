@@ -163,6 +163,6 @@
 </picture>
 <p align="center">
   <a href="https://github.com/PramudithaN/git-tulkun">
-    <img src="https://raw.githubusercontent.com/abhijithshetty12/output/tulkun/tulkun.gif" width="640" alt="git-tulkun swimming" />
+    <img src="https://raw.githubusercontent.com/abhijithshetty12/abhijithshetty12/output/tulkun/tulkun.gif" width="640" alt="abhijithshetty12's git-tulkun" />
   </a>
 </p>
