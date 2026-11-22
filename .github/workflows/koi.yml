@@ -1,35 +1,14 @@
-name: Koi
+- name: Contribution Koi Pond
+  # You may pin to the exact commit or the version.
+  # uses: 0xydev/koipond@0626bde8e1c0dd73ee6867ac8603d3f4fc2f2f9b
+  uses: 0xydev/koipond@v1.0.0
+  with:
+    # GitHub user whose contribution graph feeds the pond
+    github_user_name: 
+    # Files to generate, one per line. Each line can be customized with a query string. Supported options: theme=light|dark, seed=<any string>
 
-on:
-  schedule:
-    - cron: "20 0 * * *"
-  workflow_dispatch:
-  push:
-    paths: [.github/workflows/koi.yml]
+    outputs: # optional, default is dist/koipond-light.svg
+dist/koipond-dark.svg?theme=dark
 
-permissions:
-  contents: write
-
-concurrency: koi
-
-jobs:
-  koi:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v7
-      - uses: yalongwastaken/git-koi@v1
-        with:
-          body: white
-          output-dir: koi
-      - name: Commit the koi if it changed
-        shell: bash
-        run: |
-          git add koi/koi.gif
-          if git diff --cached --quiet; then
-            echo "The koi is unchanged; nothing to commit."
-            exit 0
-          fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit --quiet --message "koi: draw the day's koi"
-          git push --quiet
+    # Token used to read the contribution calendar (falls back to public data when empty)
+    github_token: # optional, default is ${{ github.token }}
